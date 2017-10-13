@@ -1,9 +1,7 @@
 README
 ==========
 This is the back end code for Social Network with events posting and searching functions. Source code of front end is stored in
-```
-https://github.com/ZijianWang93/Social
-```
+[Front-End for Social](https://github.com/ZijianWang93/Social)
 
 Demo Requirements
 ---------
