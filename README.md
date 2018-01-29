@@ -5,7 +5,7 @@ This is the back end code for Social Network with events posting and searching f
 
 Demo Requirements
 ---------
-1. The back end was deployed to GAE. And the project is active now.
+1. The server of this project is not active anymore due to the cost.
 
 Possible Issues
 ---------
